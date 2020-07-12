@@ -18,3 +18,7 @@ Components used:
  - 2x 400-Point breadboard 
  - USB cable
  
+![schema](https://user-images.githubusercontent.com/64780573/87244314-967bd080-c43c-11ea-8639-1f62800aa3e2.png)
+![4](https://user-images.githubusercontent.com/64780573/87244330-be6b3400-c43c-11ea-80be-7c8771165f22.JPG)
+![3](https://user-images.githubusercontent.com/64780573/87244322-a8f60a00-c43c-11ea-8d5a-b86ef48cef18.JPG)
+![6](https://user-images.githubusercontent.com/64780573/87244342-d773e500-c43c-11ea-9d5d-0cf3c885cc6c.JPG)
